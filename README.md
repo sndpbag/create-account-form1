@@ -23,7 +23,7 @@ This project is a **modern and responsive** registration form built using **HTML
 3. 🔧 **Modify** the form fields as needed for your project.
 
 ## 📸 Screenshots
-![📷 Registration Form](screenShot.png) *(Replace with an actual screenshot of the form)*
+![📷 Registration Form](asset/screenShot.png) *(Replace with an actual screenshot of the form)*
 
 ## 🤝 Contribution
 Feel free to contribute by improving the UI or adding new features! 🚀
